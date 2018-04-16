@@ -1,0 +1,14 @@
+{
+  "name": "twd97-to-address",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yi-Hua Liang <yihua1218@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "csvtojson": "^1.1.9",
+    "json2csv": "^4.0.4",
+    "merge": "^1.2.0",
+    "node-geocoder": "^3.22.0",
+    "twd97-to-latlng": "^1.0.0"
+  }
+}
